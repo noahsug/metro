@@ -1,6 +1,6 @@
 {
   "name": "metro-visualizer",
-  "version": "0.51.1",
+  "version": "0.51.1-jan.29",
   "description": "Suite of visual analysis tools for the metro bundler",
   "main": "src/index.js",
   "license": "MIT",
@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@babel/plugin-proposal-class-properties": "^7.0.0",
     "antd": "^3.7.1",
     "babel-plugin-import": "^1.8.0",
     "connect": "^3.6.5",
